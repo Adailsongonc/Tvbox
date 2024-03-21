@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",09/03/2024 6:00 horas 
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",21/03/2024 7:00 horas 
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/02/27/gkan8X.12-9-novo-cd-650x500px-jpg.webp" group-title="PIX PARA AJUDAR LISTA FICAR ATIVA ",adailsongoncalves401@gmail.com 
@@ -115,7 +115,7 @@ https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?AdailsonTV
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais | ABERTO",Band Arapuan SD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1286743219_b1631072.m3u8
